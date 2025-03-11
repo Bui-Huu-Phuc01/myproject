@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module type="WEB_MODULE" version="4">
-  <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/temp" />
-      <excludeFolder url="file://$MODULE_DIR$/tmp" />
-    </content>
-    <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-</module>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My CV</title>
+</head>
+<body>
+<b><h1>CV cá nhân của tôi</h1></b>
+<p><b>Họ và tên:</b> Bùi Hữu Phúc</p>
+<p><b>Địa chỉ:</b> Bùi hữu phúc </p>
+<a href="tel: +0889203341" style="color:red"><p><b>Số điện thoại:</b> 0889203341</p></a>
+<a href="mailto:buiphuc3d3@gmaii.com" style="color:red"><p><b>Email:</b> buiphuc3d3@gmsil.com</p></a>
+<img src="" alt="Hình ảnh avatar" width="100px" height="100px">
+<p><b>Học vấn</b>: Sinh viên</p>
+<p><b>Bằng cấp:</b> .....</p>
+<p><b>Kỹ năng:</b> ......</p>
+<p><b>Định hướng phát triển cá nhân:</b> ..........</p>
+</body>
+</html>
